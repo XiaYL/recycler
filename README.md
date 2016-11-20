@@ -1,1 +1,1 @@
-Ò½ÁÆÀ¬»ø»ØÊÕdemo
+a health-recycler demo
